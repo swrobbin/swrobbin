@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋  
+I'm Stephen Robbins, a Full-Stack Developer, musician, and all around friendly guy. 
+
+🔭 I’m currently working on expanding my skills after completing Flatiron School's Software Engineering Bootcamp.
+
+🌱 I’m currently learning more Front-End Technologies. 
+
+😄 Pronouns: he/him.
+
 
 <!--
 **swrobbin/swrobbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

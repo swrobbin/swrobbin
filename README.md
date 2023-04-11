@@ -2,7 +2,7 @@
 
 #### I'm an experienced Full-Stack Developer, musician, and all around friendly guy. 
 
-🔭 I’m currently working on expanding my skills after completing Flatiron School's Software Engineering Bootcamp.
+🔭 I’m currently working on expanding my skills at Artful Agenda.
 
 🌱 I’m also currently learning more Front-End Technologies. 
 
